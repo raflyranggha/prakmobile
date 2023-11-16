@@ -1,0 +1,67 @@
+{
+  "result": [
+  {
+    "no": "1",
+    "name": "Rafly Rangghani Putra",
+    "birth_date": "2003-03-09",
+    "Position": "2110512111",
+    "International": "Praktikum Pemrograman Mobile",
+    "Team": "Kelas B",
+    "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FRafly%2FPutra&psig=AOvVaw2yWkn9jrU7BcdYBP1BLXT_&ust=1700205495336000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDi34v9x4IDFQAAAAAdAAAAABAE"
+  },
+  {
+    "no": "2",
+    "name": "William Saliba",
+    "birth_date": "2001-03-24",
+    "Position": "Defender",
+    "International": "France",
+    "Team": "Arsenal",
+    "Poster": "https://i.postimg.cc/cCr14PHF/Saliba.png"
+  },
+  {
+    "no": "6",
+    "name": "Gabriel Magalhaes",
+    "birth_date": "1997-12-19",
+    "Position": "Defender",
+    "International": "Brazil",
+    "Team": "Arsenal",
+    "Poster": "https://i.postimg.cc/9fLjR1sK/MAGALH-ES.jpg"
+  },
+  {
+    "no": "8",
+    "name": "Martin Odegaard",
+    "birth_date": "1998-12-17",
+    "Position": "MIDFIELDERS",
+    "International": "Norway",
+    "Team": "Arsenal",
+    "Poster": "https://i.postimg.cc/MpxT1Prp/Odegard.jpg"
+  },
+  {
+    "no": "41",
+    "name": "Declan Rice",
+    "birth_date": "1999-01-14",
+    "Position": "MIDFIELDERS",
+    "International": "England",
+    "Team": "Arsenal",
+    "Poster": "https://i.postimg.cc/8CXzQ1k7/Rice.png"
+  },
+  {
+    "no": "7",
+    "name": "Bukayo Saka",
+    "birth_date": "2001-09-05",
+    "Position": "FORWARDS",
+    "International": "England",
+    "Team": "Arsenal",
+    "Poster": "https://i.postimg.cc/brkytkxn/Saka.jpg"
+  },
+  {
+    "no": "9",
+    "name": "Gabriel Jesus",
+    "birth_date": "1997-04-03",
+    "Position": "FORWARDS",
+    "International": "Brazil",
+    "Team": "Arsenal",
+    "Poster": "https://i.postimg.cc/d31RQQrg/Jesus.jpg"
+  }
+ ]
+}
